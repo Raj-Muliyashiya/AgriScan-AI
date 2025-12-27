@@ -1,0 +1,8 @@
+gpuenv
+*.env
+__pycache__/
+*.pyc
+datasets
+logs
+models
+.vscode
