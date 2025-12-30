@@ -5,6 +5,13 @@ AgriScan AI is a tool that helps farmers find diseases in groundnut plants. You 
 ## 🚀 Live Demo
 https://raj-muliyashiya-agriscan-ai.hf.space/
 
+### 🧪 How to Test (Sample Images)
+Don't have a groundnut leaf photo handy? I have included a folder named **`test_images`** in this repository for testing purposes.
+
+1. Open the **[test_images](./test_images)** folder.
+2. Download any image from the list.
+3. Upload it to the **Live Demo** link above to verify the results.
+
 ## ✨ How it Works
 1. **Upload:** You upload a photo of a groundnut leaf.
 2. **Check:** The "Is-Leaf" model checks if the photo is really a leaf.
