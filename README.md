@@ -3,7 +3,7 @@
 AgriScan AI is a tool that helps farmers find diseases in groundnut plants. You upload a photo of a leaf, and the AI tells you if the plant is sick or healthy.
 
 ## 🚀 Live Demo
-[Put your Hugging Face Space link here]
+https://raj-muliyashiya-agriscan-ai.hf.space/
 
 ## ✨ How it Works
 1. **Upload:** You upload a photo of a groundnut leaf.
