@@ -9,8 +9,8 @@ import os
 
 
 # Dataset Paths
-train_dir = "/home/raj/Desktop/AI/AgriScanAI/Dataset/Groundnut_Leaf/train"
-test_dir = "/home/raj/Desktop/AI/AgriScanAI/Dataset/Groundnut_Leaf/test"
+train_dir = "AgriScanAI/Dataset/Groundnut_Leaf/train"
+test_dir = "AgriScanAI/Dataset/Groundnut_Leaf/test"
 
 
 # Parameters

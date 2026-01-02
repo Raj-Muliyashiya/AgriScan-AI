@@ -6,8 +6,8 @@ import numpy as np
 import os
 
 # Dataset Paths
-train_dir = "/home/raj/Desktop/AI/AgriScanAI/Dataset/LNL_Dataset/train"
-test_dir = "/home/raj/Desktop/AI/AgriScanAI/Dataset/LNL_Dataset/test"
+train_dir = "AgriScanAI/Dataset/LNL_Dataset/train"
+test_dir = "AgriScanAI/Dataset/LNL_Dataset/test"
 
 # Parameters
 img_size = (256,256)
